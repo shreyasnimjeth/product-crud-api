@@ -119,3 +119,7 @@ Docker Compose:-
                 Docker Compose runs:
                 MySQL 8
                 Product CRUD API
+
+
+Database Schema Diagram:-
+<img width="716" height="805" alt="image" src="https://github.com/user-attachments/assets/7a17a004-3419-4454-b40d-a8450552883a" />
